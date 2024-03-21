@@ -21,12 +21,12 @@ year: 'numeric'
 //TIME
 global.waktu = `${date}`
 global.namabot = '𝑭𝒓𝒆𝒚𝒂 - 𝑴𝑫'
-global.v = 'Subscribe Youtube 𝑹𝒊𝒇𝒂𝒍𝑴𝒐𝒅𝒛𝒀𝑻'   
+global.v = 'Subscribe Youtube Gerall13'   
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 // Sticker WM
-global.packname = `☂ 𝑩𝒚 𝑹𝒊𝒇𝒂𝒍𝑴𝒐𝒅𝒛𝒀𝑻`
-global.author = `𝑹𝒊𝒇𝒂𝒍𝑴𝒐𝒅𝒛𝒀𝑻`
+global.packname = `☂ by yu`
+global.author = `yu`
 
 /* ===========Hiasan=========== */
 let htjava = pickRandom(["乂", "❏", "⫹⫺", "⎔", "✦", "⭔", "⬟"])
@@ -53,22 +53,22 @@ global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄"
 //--------[WATERMARK]
 global.wm = '𝑭𝒓𝒆𝒚𝒂 - 𝑴𝑫' //Main WM
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ 𝑭𝒓𝒆𝒚𝒂 - 𝑴𝑫 ꒱ ‧₊˚꒷︶꒷꒥꒷\n'
-global.wm3 = '𝑹𝒊𝒇𝒂𝒍𝑴𝒐𝒅𝒛𝒀𝑻'
-global.md = '𝑩𝒚 𝑹𝒊𝒇𝒂𝒍𝑴𝒐𝒅𝒛𝒀𝑻'
+global.wm3 = 'yu'
+global.md = 'yu'
 //-----[OWNER]
-global.nomorown = '6283853305641'
+global.nomorown = '62882022376830'
 global.owner = [
-['6283853305641', '𝑹𝒊𝒇𝒂𝒍𝑴𝒐𝒅𝒛𝒀𝑻', true], // global owner 0
-['6283853305641'], // global owner 1
-['6283853305641'], // global owner 2
-['6283853305641'] // global owner 3
+['62882022376830', 'rall', true], // global owner 0
+['62882022376830'], // global owner 1
+['62882022376830'], // global owner 2
+['62882022376830'] // global owner 3
 ]
-global.mods = ['6283853305641'] // Want some help?
-global.prems = ['6283853305641'] // Premium user has unlimited limit
+global.mods = ['62882022376830'] // Want some help?
+global.prems = ['62882022376830'] // Premium user has unlimited limit
 
 // =================={[(API CPANEL)]}==================
 
-global.domain = 'https://admin.renzdev.biz.id' // Isi Domain Lu
+global.domain = 'https://alamsyah.com' // Isi Domain Lu
 global.apikey2 = 'ptla_Bak0TBe1r9G7ul85VCRMRicxNzReRdsANLlRRRbI1QJ' // Isi Apikey Plta Lu
 global.capikey2 = 'ptlc_6HbnPhaXTdBkBlEHN6VsEG7bPM8ZaSdKYtuOkv4hM23' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
